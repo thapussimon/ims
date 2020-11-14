@@ -1,6 +1,6 @@
 public class Customer {
     //This is a dummy Customer class, This will be modified further
-    int id;
+    String id;
     String contactName;
     String contactPhone;
     String contactEmail;
